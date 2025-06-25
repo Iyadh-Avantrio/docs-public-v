@@ -4,9 +4,14 @@
     "title": "latest",
     "aliases": [
       "dev",
-      "v1.0.2",
       "v4.4",
+      "v1.0.2",
       "v4.3"
     ]
+  },
+  {
+    "version": "v4.8",
+    "title": "v4.8",
+    "aliases": []
   }
 ]
