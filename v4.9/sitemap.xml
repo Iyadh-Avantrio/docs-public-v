@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://iyadh-avantrio.github.io/docs-test/v4.9/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://iyadh-avantrio.github.io/docs-test/v4.9/api/dld_location_mapping/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://iyadh-avantrio.github.io/docs-test/v4.9/api/dld_property_details_and_projects/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://iyadh-avantrio.github.io/docs-test/v4.9/api/dld_source_files_update/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://iyadh-avantrio.github.io/docs-test/v4.9/api/dld_transactions_master/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://iyadh-avantrio.github.io/docs-test/v4.9/api/dld_transactions_rent_contracts/</loc>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+</urlset>
